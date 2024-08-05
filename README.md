@@ -1,6 +1,6 @@
 # Somto-s_portfolio
 
-#[PROJECT 1: SALES REPORT](https://sommied.github.io/Somto-s_portfolio-)
+#[PROJECT 1: SALES REPORT](https://sommied.github.io/Somto-s_portfolio/)
 
 For a personal project, I analyzed a sales database for a company named "GIMS."
 
