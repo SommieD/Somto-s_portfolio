@@ -1,6 +1,6 @@
 # Somto-s_portfolio
 
-#[PROJECT 1: SALES REPORT](hhtps://github.com/SommieD/Sales-Report-)
+#[PROJECT 1: SALES REPORT](https://sommied.github.io/Somto-s_portfolio/Sales-Report-)
 
 For a personal project, I analyzed a sales database for a company named "GIMS."
 
@@ -12,3 +12,5 @@ For a personal project, I analyzed a sales database for a company named "GIMS."
 - Conducted a comprehensive examination of sales trends and performance.
 - Identified key insights and patterns across different regions and products.
 - Evaluated the impact of sales representatives and product attributes on revenue.
+
+#[PROJECT 2: SUPERMARKET Q1 SALES ANALYSIS](
